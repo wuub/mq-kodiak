@@ -1,8 +1,8 @@
 version = 1
 
 [merge]
-automerge_label = "autoupdate"
+automerge_label = "automerge"
 do_not_merge = true
 
 [update]
-update.autoupdate_label = "autoupdate"
+autoupdate_label = "autoupdate"
