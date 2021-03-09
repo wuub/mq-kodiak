@@ -5,4 +5,4 @@ automerge_label = "autoupdate"
 do_not_merge = true
 
 [update]
-update.autoupdate_label = "autoupdate"
+autoupdate_label = "autoupdate"
